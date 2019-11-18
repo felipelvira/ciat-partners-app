@@ -1,0 +1,24 @@
+.form-divider {
+    padding: 15px;
+    background-color: #b5b3b3e0;
+    color: white;
+    border-radius: 0px 30px;
+    font-weight: bold;
+    letter-spacing: 1px;
+    margin: 25px 10px;
+}
+
+.error-message {
+    text-align: center;
+    margin: 20px 10px;
+    color: red;
+    padding: 15px;
+    background: #ffd0d0;
+    font-weight: bold;
+    border-radius: 0px 30px;
+    letter-spacing: 1px;
+}
+
+mat-button-toggle-group {
+    margin-left: 12px;
+}
